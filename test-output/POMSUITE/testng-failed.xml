@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [POMSUITE]">
+  <test name="NoPackage(failed)">
+    <classes>
+      <class name="com.hrms.testscripts.TC003_DeleteEmployee">
+        <methods>
+          <include name="deleteEmployee"/>
+        </methods>
+      </class> <!-- com.hrms.testscripts.TC003_DeleteEmployee -->
+      <class name="com.hrms.testscripts.TC004_EditEmployee">
+        <methods>
+          <include name="editEmp"/>
+        </methods>
+      </class> <!-- com.hrms.testscripts.TC004_EditEmployee -->
+    </classes>
+  </test> <!-- NoPackage(failed) -->
+</suite> <!-- Failed suite [POMSUITE] -->

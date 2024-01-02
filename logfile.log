@@ -1,0 +1,72 @@
+2024-01-02 16:05:00,705 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:05:02,051 INFO  [Log4j] Application is Login 
+2024-01-02 16:05:02,076 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:05:02,201 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:06:35,497 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:06:37,173 INFO  [Log4j] Application is Login 
+2024-01-02 16:06:37,202 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:06:37,327 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:06:41,646 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:06:43,138 INFO  [Log4j] Application is Login 
+2024-01-02 16:06:45,195 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:06:45,316 INFO  [Log4j] Enter the Frame:: 
+2024-01-02 16:06:49,456 INFO  [Log4j] AddEmployee is Sucessfull 
+2024-01-02 16:06:49,484 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:06:51,517 INFO  [Log4j] Exit the frame:: 
+2024-01-02 16:06:51,696 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:06:57,089 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:06:57,885 INFO  [Log4j] Application is Login 
+2024-01-02 16:06:58,412 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:07:00,474 INFO  [Log4j] Enter the Frame:: 
+2024-01-02 16:07:02,679 INFO  [Log4j] Employee is Deleted 
+2024-01-02 16:07:02,695 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:07:04,730 INFO  [Log4j] Exit the frame:: 
+2024-01-02 16:07:04,916 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:07:10,224 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:07:11,458 INFO  [Log4j] Application is Login 
+2024-01-02 16:07:11,476 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:07:13,668 INFO  [Log4j] Enter the Frame:: 
+2024-01-02 16:07:17,924 INFO  [Log4j] AddEmployee is Sucessfull 
+2024-01-02 16:07:19,972 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:07:22,829 INFO  [Log4j] Edit employee is SuccessFull 
+2024-01-02 16:07:22,838 INFO  [Log4j] Exit the frame:: 
+2024-01-02 16:07:25,088 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:10:18,790 INFO  [Log4j] Application is open 
+2024-01-02 16:10:18,841 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:10:20,406 INFO  [Log4j] Application is Login 
+2024-01-02 16:10:20,421 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:10:20,538 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:10:20,835 INFO  [Log4j] Application is Close 
+2024-01-02 16:10:25,746 INFO  [Log4j] Application is open 
+2024-01-02 16:10:25,806 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:10:28,727 INFO  [Log4j] Application is Login 
+2024-01-02 16:10:30,738 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:10:30,748 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:10:30,927 INFO  [Log4j] Enter the Frame:: 
+2024-01-02 16:10:34,533 INFO  [Log4j] AddEmployee is Sucessfull 
+2024-01-02 16:10:34,551 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:10:36,558 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:10:36,580 INFO  [Log4j] Exit the frame:: 
+2024-01-02 16:10:36,739 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:10:37,156 INFO  [Log4j] Application is Close 
+2024-01-02 16:10:41,730 INFO  [Log4j] Application is open 
+2024-01-02 16:10:41,765 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:10:42,859 INFO  [Log4j] Application is Login 
+2024-01-02 16:10:42,869 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:10:44,870 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:10:45,054 INFO  [Log4j] Enter the Frame:: 
+2024-01-02 16:10:57,906 INFO  [Log4j] Application is open 
+2024-01-02 16:10:57,944 INFO  [Log4j] Tittle is verified 
+2024-01-02 16:11:00,247 INFO  [Log4j] Application is Login 
+2024-01-02 16:11:00,293 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:11:02,299 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:11:02,386 INFO  [Log4j] Enter the Frame:: 
+2024-01-02 16:11:05,400 INFO  [Log4j] AddEmployee is Sucessfull 
+2024-01-02 16:11:07,402 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:11:07,433 INFO  [Log4j] Tittle Is Verified 
+2024-01-02 16:11:10,245 INFO  [Log4j] Edit employee is SuccessFull 
+2024-01-02 16:11:10,257 INFO  [Log4j] Exit the frame:: 
+2024-01-02 16:11:12,268 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:11:12,399 INFO  [Log4j] Logout is Succesfull 
+2024-01-02 16:11:14,414 INFO  [Log4j] Wait stmt is excecuted 
+2024-01-02 16:11:14,676 INFO  [Log4j] Application is Close 
